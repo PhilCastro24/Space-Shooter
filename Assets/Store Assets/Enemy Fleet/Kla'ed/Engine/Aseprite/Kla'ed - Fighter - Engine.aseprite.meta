@@ -330,7 +330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Fighter - Engine_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -339,7 +339,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 90511028d8e6b424f870957e28251eba
-    - name: Frame_1
+    - name: Kla'ed - Fighter - Engine_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -348,7 +348,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 52c8725d81a86aa46ba3b9056f9977c1
-    - name: Frame_2
+    - name: Kla'ed - Fighter - Engine_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -357,7 +357,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: a9f07aaa568264f40bc29d432a965255
-    - name: Frame_3
+    - name: Kla'ed - Fighter - Engine_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -366,7 +366,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: cad222b3e5b74854c8e1fada5084935b
-    - name: Frame_4
+    - name: Kla'ed - Fighter - Engine_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -375,7 +375,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 2ad90ee5f81f01b47bcbe2f5678ffb77
-    - name: Frame_5
+    - name: Kla'ed - Fighter - Engine_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -384,7 +384,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: dfa97cb3325cb694c8f62ed4d5b61411
-    - name: Frame_6
+    - name: Kla'ed - Fighter - Engine_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -393,7 +393,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 9e876819b5121a544be8e24ab9888d07
-    - name: Frame_7
+    - name: Kla'ed - Fighter - Engine_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -402,7 +402,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: ef57db7bc2d39e047822d676a4b34132
-    - name: Frame_8
+    - name: Kla'ed - Fighter - Engine_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -411,7 +411,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 4dc19456c3d936a43b7d915ab4f48db9
-    - name: Frame_9
+    - name: Kla'ed - Fighter - Engine_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:

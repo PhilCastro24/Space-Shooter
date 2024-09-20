@@ -250,7 +250,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Bomber - Shield_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -259,7 +259,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 682aac3e58be0e340b8ab8f41626629d
-    - name: Frame_1
+    - name: Kla'ed - Bomber - Shield_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -268,7 +268,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 28acc0a4f525f994e8149c1e00e3e641
-    - name: Frame_2
+    - name: Kla'ed - Bomber - Shield_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -277,7 +277,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 0f5dc27cff711834c89f0037682587c9
-    - name: Frame_3
+    - name: Kla'ed - Bomber - Shield_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -286,7 +286,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 121d0857ad32260439c8871935a1d6e6
-    - name: Frame_4
+    - name: Kla'ed - Bomber - Shield_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -295,7 +295,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 86795a07249d73b409e1404abce50bb1
-    - name: Frame_5
+    - name: Kla'ed - Bomber - Shield_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:

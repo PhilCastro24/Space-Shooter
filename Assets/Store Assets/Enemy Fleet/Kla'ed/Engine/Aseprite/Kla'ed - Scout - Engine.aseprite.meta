@@ -330,7 +330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Scout - Engine_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -339,7 +339,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 07c75372f5df25a4ead120de402fe456
-    - name: Frame_1
+    - name: Kla'ed - Scout - Engine_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -348,7 +348,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 34405d35f43eeb0418c8f7cbf6df69e2
-    - name: Frame_2
+    - name: Kla'ed - Scout - Engine_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -357,7 +357,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 248a27df845446e47b71827e5335a2e3
-    - name: Frame_3
+    - name: Kla'ed - Scout - Engine_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -366,7 +366,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: e07bbbbc69429e04a9f033f073243493
-    - name: Frame_4
+    - name: Kla'ed - Scout - Engine_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -375,7 +375,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 0f6bef8051235cf47a1f14ce40cb88e1
-    - name: Frame_5
+    - name: Kla'ed - Scout - Engine_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -384,7 +384,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: a580eee2f223b0943a920cd576faa1b5
-    - name: Frame_6
+    - name: Kla'ed - Scout - Engine_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -393,7 +393,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 43b44d82177484d4badd262990066788
-    - name: Frame_7
+    - name: Kla'ed - Scout - Engine_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -402,7 +402,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: bfb50cfaf9fae604cb4df48f1ddbfeec
-    - name: Frame_8
+    - name: Kla'ed - Scout - Engine_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -411,7 +411,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: af3e6f637e6914d4d85e27e7a71e0ae6
-    - name: Frame_9
+    - name: Kla'ed - Scout - Engine_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:

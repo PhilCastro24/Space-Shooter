@@ -310,7 +310,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Frigate - Destruction_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -319,7 +319,7 @@ ScriptedImporter:
         width: 36
         height: 39
       spriteId: c6cfefb42fed2d848be145820d267413
-    - name: Frame_1
+    - name: Kla'ed - Frigate - Destruction_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -328,7 +328,7 @@ ScriptedImporter:
         width: 36
         height: 39
       spriteId: 16bda2791746a5c4d8471ee266f6de31
-    - name: Frame_2
+    - name: Kla'ed - Frigate - Destruction_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -337,7 +337,7 @@ ScriptedImporter:
         width: 36
         height: 39
       spriteId: a9929ac1d606a9c449e27c7dc38a923d
-    - name: Frame_3
+    - name: Kla'ed - Frigate - Destruction_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -346,7 +346,7 @@ ScriptedImporter:
         width: 36
         height: 39
       spriteId: 68e5d6bfba75c9b49a3d3411f7b12b3a
-    - name: Frame_5
+    - name: Kla'ed - Frigate - Destruction_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -355,7 +355,7 @@ ScriptedImporter:
         width: 53
         height: 56
       spriteId: 8aa0fb36b09ca904bb512078dc9ab552
-    - name: Frame_6
+    - name: Kla'ed - Frigate - Destruction_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -364,7 +364,7 @@ ScriptedImporter:
         width: 62
         height: 62
       spriteId: 83b8863766464764db8cdafc983439dd
-    - name: Frame_7
+    - name: Kla'ed - Frigate - Destruction_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -373,7 +373,7 @@ ScriptedImporter:
         width: 62
         height: 62
       spriteId: b2c5215aba207ad43b134ab51a595770
-    - name: Frame_4
+    - name: Kla'ed - Frigate - Destruction_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -382,7 +382,7 @@ ScriptedImporter:
         width: 25
         height: 25
       spriteId: e4913d023d0b801488d0cad80f1da5bc
-    - name: Frame_8
+    - name: Kla'ed - Frigate - Destruction_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:

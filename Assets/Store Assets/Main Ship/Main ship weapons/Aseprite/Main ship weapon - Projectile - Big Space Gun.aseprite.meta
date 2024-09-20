@@ -330,7 +330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -339,7 +339,7 @@ ScriptedImporter:
         width: 18
         height: 18
       spriteId: 04eb553d5f4423b49a4ef8051120651b
-    - name: Frame_1
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -348,7 +348,7 @@ ScriptedImporter:
         width: 22
         height: 22
       spriteId: 790be7305e3ba504dab75d0bb09b382a
-    - name: Frame_2
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -357,7 +357,7 @@ ScriptedImporter:
         width: 26
         height: 26
       spriteId: a8106ddedd205f749a6ca2fbfde1405d
-    - name: Frame_3
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -366,7 +366,7 @@ ScriptedImporter:
         width: 30
         height: 30
       spriteId: 937fa02d8fc74914ab94160002b2b67a
-    - name: Frame_4
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -375,7 +375,7 @@ ScriptedImporter:
         width: 32
         height: 32
       spriteId: 31d9a4ad2e5e7dc4e94dac47740d886f
-    - name: Frame_5
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -384,7 +384,7 @@ ScriptedImporter:
         width: 18
         height: 18
       spriteId: 5ef4180666fe7ed4d8b77cd1452b28fc
-    - name: Frame_6
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -393,7 +393,7 @@ ScriptedImporter:
         width: 22
         height: 22
       spriteId: 0e4cb43388b83f5408fb45f9949b2fbf
-    - name: Frame_7
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -402,7 +402,7 @@ ScriptedImporter:
         width: 26
         height: 26
       spriteId: 576c86d3932a9604daa2c19adeb4f160
-    - name: Frame_8
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -411,7 +411,7 @@ ScriptedImporter:
         width: 30
         height: 30
       spriteId: 1a414df5b44ba0b4d8e922c3a60b1258
-    - name: Frame_9
+    - name: Main ship weapon - Projectile - Big Space Gun_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:

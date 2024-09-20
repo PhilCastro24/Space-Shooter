@@ -190,7 +190,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Main ship weapon - Projectile - Rocket_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -199,7 +199,7 @@ ScriptedImporter:
         width: 5
         height: 15
       spriteId: a471e1c133b81144d8f166e7839429dd
-    - name: Frame_1
+    - name: Main ship weapon - Projectile - Rocket_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -208,7 +208,7 @@ ScriptedImporter:
         width: 5
         height: 17
       spriteId: 0b7e498d83c7c2c4fbddb0c7be744237
-    - name: Frame_2
+    - name: Main ship weapon - Projectile - Rocket_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:

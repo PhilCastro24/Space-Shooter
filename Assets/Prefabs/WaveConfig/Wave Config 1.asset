@@ -18,4 +18,6 @@ MonoBehaviour:
   - {fileID: 4963054615876667741, guid: d9f1241f4df1bae4c97d26191f8505a2, type: 3}
   - {fileID: 4963054615876667741, guid: b0f353690d6c6fa4b888e5f112a89a12, type: 3}
   - {fileID: 4963054615876667741, guid: ab7b4cd1ad6909c45851a558bf545673, type: 3}
-  - {fileID: 4963054615876667741, guid: d6e7dba1f060bab41aa37cfe6b6d5d19, type: 3}
+  timebetweenEnemySpawns: 1
+  spawnTimeVariance: 0.5
+  minSpawnTime: 0.2

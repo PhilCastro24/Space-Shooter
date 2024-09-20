@@ -250,7 +250,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Wave_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -259,7 +259,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: e52bf444d5fbfa143afd43c7be5ab517
-    - name: Frame_1
+    - name: Kla'ed - Wave_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -268,7 +268,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 2b8321866b687f448957c875f754028b
-    - name: Frame_2
+    - name: Kla'ed - Wave_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -277,7 +277,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 65463d8fe8850c34da0f041351aec4aa
-    - name: Frame_3
+    - name: Kla'ed - Wave_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -286,7 +286,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: f636eed151087574ea1b8ebd9e0c09a3
-    - name: Frame_4
+    - name: Kla'ed - Wave_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -295,7 +295,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: b2917824a844ade4b998196f495ee151
-    - name: Frame_5
+    - name: Kla'ed - Wave_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:

@@ -13,8 +13,15 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float paddingTop;
     [SerializeField] float paddingBottom;
 
+    Shooter shooter;
+
     Vector2 minBounds;
     Vector2 maxBounds;
+
+     void Awake()
+    {
+        shooter = GetComponent<Shooter>();
+    }
 
     void Start()
     {
@@ -51,5 +58,13 @@ public class PlayerController : MonoBehaviour
     {
         rawInput = value.Get<Vector2>();
         Debug.Log(rawInput);
+    }
+
+    void onFire()
+    {
+        if (shooter != null)
+        {
+            
+        }
     }
 }

@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Ships Preview_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -299,7 +299,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 579bf3cd3e38bbf40bea67f234c3a008
-    - name: Frame_1
+    - name: Kla'ed - Ships Preview_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -308,7 +308,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: db6915b8b8cab5f4f89a84a00e3286bc
-    - name: Frame_2
+    - name: Kla'ed - Ships Preview_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -317,7 +317,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 8d43a25fd3a01a74b9b392b307fdba34
-    - name: Frame_3
+    - name: Kla'ed - Ships Preview_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -326,7 +326,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 90e5ddbef213d774eafb7997305ee4ba
-    - name: Frame_4
+    - name: Kla'ed - Ships Preview_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -335,7 +335,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: d999f3a8ed40c794381b2a93de29505d
-    - name: Frame_5
+    - name: Kla'ed - Ships Preview_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -344,7 +344,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: a3e006fb09e9cc94c9ee5f6b2f9ef4f7
-    - name: Frame_6
+    - name: Kla'ed - Ships Preview_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -353,7 +353,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: c17d8acad9d9e6a4dab4e7c6167871da
-    - name: Frame_7
+    - name: Kla'ed - Ships Preview_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:

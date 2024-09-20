@@ -330,7 +330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Support ship - Engine_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -339,7 +339,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 1aebf862295c82048b01c10b1be23262
-    - name: Frame_1
+    - name: Kla'ed - Support ship - Engine_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -348,7 +348,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: c373f5a7e7485fa4395b7290d5948306
-    - name: Frame_2
+    - name: Kla'ed - Support ship - Engine_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -357,7 +357,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 3712d0582662fc1448209a4b79980914
-    - name: Frame_3
+    - name: Kla'ed - Support ship - Engine_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -366,7 +366,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 6b579b3c679d8334abb7b1cb1ec912ef
-    - name: Frame_4
+    - name: Kla'ed - Support ship - Engine_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -375,7 +375,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: eb37b9b4b164d3248acc66972b396d92
-    - name: Frame_5
+    - name: Kla'ed - Support ship - Engine_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -384,7 +384,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 13ce48edc7a0f684689f583312ae56b9
-    - name: Frame_6
+    - name: Kla'ed - Support ship - Engine_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -393,7 +393,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 99d81f9a3cd20e24a83d7a88f6fce9f7
-    - name: Frame_7
+    - name: Kla'ed - Support ship - Engine_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -402,7 +402,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: d55968a02cf37694789130bb9c95a544
-    - name: Frame_8
+    - name: Kla'ed - Support ship - Engine_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -411,7 +411,7 @@ ScriptedImporter:
         width: 64
         height: 64
       spriteId: 6d2cc726ae3d4be47a65d11ed9d316e6
-    - name: Frame_9
+    - name: Kla'ed - Support ship - Engine_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:

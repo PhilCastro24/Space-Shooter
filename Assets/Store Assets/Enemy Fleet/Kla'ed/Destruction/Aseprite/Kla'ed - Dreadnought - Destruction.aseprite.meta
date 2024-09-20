@@ -370,7 +370,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Dreadnought - Destruction_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -379,7 +379,7 @@ ScriptedImporter:
         width: 72
         height: 100
       spriteId: b11d1388f34e77d4a8a92a9409278d1d
-    - name: Frame_1
+    - name: Kla'ed - Dreadnought - Destruction_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -388,7 +388,7 @@ ScriptedImporter:
         width: 72
         height: 100
       spriteId: e558a5c9343a03449afdd5fe4da575ef
-    - name: Frame_2
+    - name: Kla'ed - Dreadnought - Destruction_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -397,7 +397,7 @@ ScriptedImporter:
         width: 72
         height: 100
       spriteId: a3780a4749fefc94daf151b9c060525b
-    - name: Frame_3
+    - name: Kla'ed - Dreadnought - Destruction_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -406,7 +406,7 @@ ScriptedImporter:
         width: 72
         height: 100
       spriteId: 6133cf7b7fec1aa4582be05640401ec9
-    - name: Frame_4
+    - name: Kla'ed - Dreadnought - Destruction_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -415,7 +415,7 @@ ScriptedImporter:
         width: 72
         height: 100
       spriteId: 39d93e362f403824aa2db99f1f7204eb
-    - name: Frame_5
+    - name: Kla'ed - Dreadnought - Destruction_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -424,7 +424,7 @@ ScriptedImporter:
         width: 72
         height: 100
       spriteId: a3addf16bafc7b44c923b76a2008a460
-    - name: Frame_6
+    - name: Kla'ed - Dreadnought - Destruction_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -433,7 +433,7 @@ ScriptedImporter:
         width: 72
         height: 100
       spriteId: 28dfc9dd31706f949a323dc5c0d3be21
-    - name: Frame_7
+    - name: Kla'ed - Dreadnought - Destruction_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -442,7 +442,7 @@ ScriptedImporter:
         width: 110
         height: 98
       spriteId: da413651166e71e4c806d2ab9d499b03
-    - name: Frame_8
+    - name: Kla'ed - Dreadnought - Destruction_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -451,7 +451,7 @@ ScriptedImporter:
         width: 126
         height: 99
       spriteId: e705e16807919e646817a5a5120d6d68
-    - name: Frame_9
+    - name: Kla'ed - Dreadnought - Destruction_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -460,7 +460,7 @@ ScriptedImporter:
         width: 66
         height: 96
       spriteId: e28705bc0b1c0b94cb9cc6958ffc48d3
-    - name: Frame_10
+    - name: Kla'ed - Dreadnought - Destruction_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -469,7 +469,7 @@ ScriptedImporter:
         width: 66
         height: 88
       spriteId: e0f9363965bb4d54aa143361c8182fd4
-    - name: Frame_11
+    - name: Kla'ed - Dreadnought - Destruction_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:

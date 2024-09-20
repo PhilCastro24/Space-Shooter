@@ -450,7 +450,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -459,7 +459,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: 7aa94f6e041b0f14ba595945f626080f
-    - name: Frame_1
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -468,7 +468,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: 804edec33261a3b4c97776889eee20de
-    - name: Frame_2
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -477,7 +477,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: f803417ecbd344749b5a855c38fc42f9
-    - name: Frame_3
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -486,7 +486,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: b3d88967021cad24f880a7baa74a026b
-    - name: Frame_4
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -495,7 +495,7 @@ ScriptedImporter:
         width: 56
         height: 28
       spriteId: d67506321e7a7204480671e516019a55
-    - name: Frame_5
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -504,7 +504,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: 3635af44f3c995b49bec5d9483fae37c
-    - name: Frame_6
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -513,7 +513,7 @@ ScriptedImporter:
         width: 56
         height: 28
       spriteId: 818b19de9b87591458459a0c03587cae
-    - name: Frame_7
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -522,7 +522,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: 6f1a58665859180488f1fa352f7cfb29
-    - name: Frame_8
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -531,7 +531,7 @@ ScriptedImporter:
         width: 56
         height: 28
       spriteId: 7fb470ca10158b14fbf3f7c826e09404
-    - name: Frame_9
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -540,7 +540,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: d1f4bcab4b72aa748aba8d0b1b083c0d
-    - name: Frame_10
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -549,7 +549,7 @@ ScriptedImporter:
         width: 56
         height: 28
       spriteId: 6e6a22a8db42adb4883d91b02a376351
-    - name: Frame_11
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -558,7 +558,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: 7a71d7180aa046944b34b3ed378541e6
-    - name: Frame_12
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -567,7 +567,7 @@ ScriptedImporter:
         width: 56
         height: 28
       spriteId: b5966619cbb0a644f820c5a4bc9cb055
-    - name: Frame_13
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -576,7 +576,7 @@ ScriptedImporter:
         width: 56
         height: 22
       spriteId: 8599d2b090e7e004ab70d9f98b041c65
-    - name: Frame_14
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -585,7 +585,7 @@ ScriptedImporter:
         width: 56
         height: 28
       spriteId: 1878cf41f6f31284f97bb4327e3ea9a9
-    - name: Frame_15
+    - name: Kla'ed - Torpedo Ship - Weapons_Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:

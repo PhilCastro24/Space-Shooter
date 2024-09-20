@@ -410,7 +410,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Main Ship - Weapons - Zapper_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -419,7 +419,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: 08a34e8a3e847714d936aeeac75ce224
-    - name: Frame_1
+    - name: Main Ship - Weapons - Zapper_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -428,7 +428,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: 7faea722e9eb58d43b93d85b15b75b07
-    - name: Frame_2
+    - name: Main Ship - Weapons - Zapper_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -437,7 +437,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: 61117133d7d463d49a8032cbc165ced2
-    - name: Frame_3
+    - name: Main Ship - Weapons - Zapper_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -446,7 +446,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: 7ceac0dc8d9f5de4584e3cbfe5cc3cdd
-    - name: Frame_4
+    - name: Main Ship - Weapons - Zapper_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -455,7 +455,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: 40c173b72ab169c4b9fed1bfa7784b89
-    - name: Frame_5
+    - name: Main Ship - Weapons - Zapper_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -464,7 +464,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: 9592450ad6cb2b94b84eb6d86991f0cc
-    - name: Frame_6
+    - name: Main Ship - Weapons - Zapper_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -473,7 +473,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: c06d9b091135db4418172d2a85fb893e
-    - name: Frame_7
+    - name: Main Ship - Weapons - Zapper_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -482,7 +482,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: f95dd20614d84f24ebffb436ae2d0eb2
-    - name: Frame_8
+    - name: Main Ship - Weapons - Zapper_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -491,7 +491,7 @@ ScriptedImporter:
         width: 24
         height: 22
       spriteId: daf5c792f23a4984b8833f013592e652
-    - name: Frame_9
+    - name: Main Ship - Weapons - Zapper_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -500,7 +500,7 @@ ScriptedImporter:
         width: 24
         height: 18
       spriteId: afe70b973a943e5429151f2bef990414
-    - name: Frame_10
+    - name: Main Ship - Weapons - Zapper_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -509,7 +509,7 @@ ScriptedImporter:
         width: 24
         height: 18
       spriteId: 4160323292c78d846af90fb3c9f24836
-    - name: Frame_11
+    - name: Main Ship - Weapons - Zapper_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -518,7 +518,7 @@ ScriptedImporter:
         width: 24
         height: 19
       spriteId: 32672d0b313554047a90f4cf6d1c6451
-    - name: Frame_12
+    - name: Main Ship - Weapons - Zapper_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -527,7 +527,7 @@ ScriptedImporter:
         width: 24
         height: 19
       spriteId: 04022757f916e214da6c934500102bdb
-    - name: Frame_13
+    - name: Main Ship - Weapons - Zapper_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:

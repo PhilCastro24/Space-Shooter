@@ -370,7 +370,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Kla'ed - Dreadnought - Engine_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -379,7 +379,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 83d7839d7ea9cb845bfc435f6a39e958
-    - name: Frame_1
+    - name: Kla'ed - Dreadnought - Engine_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -388,7 +388,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: fbf05594770fd794290ffd37d70c0302
-    - name: Frame_2
+    - name: Kla'ed - Dreadnought - Engine_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -397,7 +397,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: c447c547a99de254ca3065d581ab8263
-    - name: Frame_3
+    - name: Kla'ed - Dreadnought - Engine_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -406,7 +406,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 5a8fa60c999f59f4fb5cd78a94aa5dfe
-    - name: Frame_4
+    - name: Kla'ed - Dreadnought - Engine_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -415,7 +415,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: e87b5b2f3861b62408e33713f96e0d41
-    - name: Frame_5
+    - name: Kla'ed - Dreadnought - Engine_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -424,7 +424,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 6ce5690699b9244408c0cf5f7490c164
-    - name: Frame_6
+    - name: Kla'ed - Dreadnought - Engine_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -433,7 +433,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 432171031544d534e84c6b3551036fe6
-    - name: Frame_7
+    - name: Kla'ed - Dreadnought - Engine_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -442,7 +442,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 40baa2e98ef067d409fb8f8a874fd45d
-    - name: Frame_8
+    - name: Kla'ed - Dreadnought - Engine_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -451,7 +451,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: d95f4465e0692cd458be0ebc7907f617
-    - name: Frame_9
+    - name: Kla'ed - Dreadnought - Engine_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -460,7 +460,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: cbe1b49189c37594397b249a8db76e85
-    - name: Frame_10
+    - name: Kla'ed - Dreadnought - Engine_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -469,7 +469,7 @@ ScriptedImporter:
         width: 128
         height: 128
       spriteId: 3fa0e1aedb7f8074291fa88210c0a8ed
-    - name: Frame_11
+    - name: Kla'ed - Dreadnought - Engine_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:

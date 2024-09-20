@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Main ship weapon - Projectile - Zapper_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -299,7 +299,7 @@ ScriptedImporter:
         width: 6
         height: 96
       spriteId: 90b7fcc438b8ed94c955804ab6da8eca
-    - name: Frame_1
+    - name: Main ship weapon - Projectile - Zapper_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -308,7 +308,7 @@ ScriptedImporter:
         width: 6
         height: 96
       spriteId: 4f5e042f672104342bdfd2d8eef6c49d
-    - name: Frame_2
+    - name: Main ship weapon - Projectile - Zapper_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -317,7 +317,7 @@ ScriptedImporter:
         width: 6
         height: 96
       spriteId: 1944e80e69a212b47a7a616fb7be318f
-    - name: Frame_3
+    - name: Main ship weapon - Projectile - Zapper_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -326,7 +326,7 @@ ScriptedImporter:
         width: 6
         height: 96
       spriteId: aba538f63e41914419cbe9b4daa4cff4
-    - name: Frame_4
+    - name: Main ship weapon - Projectile - Zapper_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -335,7 +335,7 @@ ScriptedImporter:
         width: 6
         height: 96
       spriteId: c6c52287823b65b4a878f6d6eb74c4ad
-    - name: Frame_5
+    - name: Main ship weapon - Projectile - Zapper_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -344,7 +344,7 @@ ScriptedImporter:
         width: 6
         height: 96
       spriteId: eb9b5e244a81c4a488113a90a971cdb1
-    - name: Frame_6
+    - name: Main ship weapon - Projectile - Zapper_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -353,7 +353,7 @@ ScriptedImporter:
         width: 6
         height: 96
       spriteId: c05202e6c4d1015448473b75f1ff2bc6
-    - name: Frame_7
+    - name: Main ship weapon - Projectile - Zapper_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
