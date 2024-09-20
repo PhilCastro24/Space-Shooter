@@ -18,7 +18,7 @@ public class Pathfinder : MonoBehaviour
 
     void Start()
     {
-        waveConfig = enemySpawner.GetcurrentWave();
+        waveConfig = enemySpawner.GetCurrentWave();
         waypoints = waveConfig.GetWaypoints();
         transform.position = waypoints[waypointIndex].position;
     }
@@ -26,7 +26,7 @@ public class Pathfinder : MonoBehaviour
 
     void Update()
     {
-        
+        FollowPath();
     }
 
     void FollowPath()
