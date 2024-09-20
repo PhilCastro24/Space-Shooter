@@ -17,7 +17,7 @@ public class EnemySpawner : MonoBehaviour
         
     }
 
-    public WaveConfigSO GetcurrentWave()
+    public WaveConfigSO GetCurrentWave()
     {
         return currentWave;
     }
