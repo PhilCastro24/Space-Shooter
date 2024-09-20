@@ -25,7 +25,7 @@ public class PlayerController : MonoBehaviour
     {
         Camera mainCamera = Camera.main;
         minBounds = mainCamera.ViewportToWorldPoint(new Vector2(0, 0));
-        minBounds = mainCamera.ViewportToWorldPoint(new Vector2(1, 1));
+        maxBounds = mainCamera.ViewportToWorldPoint(new Vector2(1, 1));
     }
 
     void Update()
