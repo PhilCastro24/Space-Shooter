@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     Vector2 minBounds;
     Vector2 maxBounds;
 
-     void Awake()
+    void Awake()
     {
         shooter = GetComponent<Shooter>();
     }
@@ -60,10 +60,11 @@ public class PlayerController : MonoBehaviour
         Debug.Log(rawInput);
     }
 
-    void onFire(InputValue value)
+    void OnFire(InputValue value) // name of this method should be the same as in Player Input component
     {
         if (shooter != null)
         {
+            Debug.Log("Shooter script is assigned correctly");
             shooter.isFiring = value.isPressed;
         }
     }

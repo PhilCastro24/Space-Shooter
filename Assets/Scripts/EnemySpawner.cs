@@ -15,12 +15,6 @@ public class EnemySpawner : MonoBehaviour
         StartCoroutine(SpawnEnemyWaves());
     }
 
-
-    void Update()
-    {
-        
-    }
-
     public WaveConfigSO GetCurrentWave()
     {
         return currentWave;
