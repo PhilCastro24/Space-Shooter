@@ -26,7 +26,7 @@ public class Shooter : MonoBehaviour
         }
         else if (!isFiring && firingCoroutine != null)
         {
-            StopCoroutine(FireContinuously());
+            StopCoroutine(firingCoroutine);
             firingCoroutine = null;
         }
     }

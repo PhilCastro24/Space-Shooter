@@ -10,11 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 7129517223254371904}
   - component: {fileID: 5639351076559092888}
-  - component: {fileID: -1089112341353490264}
   - component: {fileID: 6986124535443565527}
   - component: {fileID: -1371060521412313002}
   - component: {fileID: 6402897418872856524}
   - component: {fileID: -6750576949267811031}
+  - component: {fileID: -1089112341353490264}
+  - component: {fileID: -2636041935618123037}
   m_Layer: 7
   m_Name: Bomber 1
   m_TagString: Untagged
@@ -89,18 +90,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &-1089112341353490264
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4963054615876667741}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 11141cd878582144191cf146a549ec73, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!50 &6986124535443565527
 Rigidbody2D:
   serializedVersion: 4
@@ -189,3 +178,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 50
+--- !u!114 &-1089112341353490264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4963054615876667741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11141cd878582144191cf146a549ec73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-2636041935618123037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4963054615876667741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885803f87bcf8574b9f2067c1b439744, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  torpedoPrefab: {fileID: 0}
+  torpedoSpeed: 10
+  torpedoLifetime: 5
+  firingRate: 0.2
+  isFiring: 0

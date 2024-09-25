@@ -60,11 +60,11 @@ public class PlayerController : MonoBehaviour
         Debug.Log(rawInput);
     }
 
-    void onFire()
+    void onFire(InputValue value)
     {
         if (shooter != null)
         {
-            
+            shooter.isFiring = value.isPressed;
         }
     }
 }
