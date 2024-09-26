@@ -177,7 +177,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9d3fcb3f226f3a42825637e24c40b52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isPlayer: 0
   health: 50
+  score: 25
 --- !u!114 &-1089112341353490264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -202,8 +204,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 885803f87bcf8574b9f2067c1b439744, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  torpedoPrefab: {fileID: 0}
+  torpedoPrefab: {fileID: 7863666032955684294, guid: 518a12347beacec4bbfe0d4cd295449e, type: 3}
   torpedoSpeed: 10
   torpedoLifetime: 5
   firingRate: 0.2
+  usedByEnemy: 1
+  firingRateVariance: 0.1
+  minimumFiringRate: 1
   isFiring: 0

@@ -4,14 +4,35 @@ using UnityEngine;
 
 public class Shooter : MonoBehaviour
 {
+    [Header("General")]
     [SerializeField] GameObject torpedoPrefab;
     [SerializeField] float torpedoSpeed = 10;
     [SerializeField] float torpedoLifetime = 5f;
     [SerializeField] float firingRate = 0.2f;
 
-    public bool isFiring;
+    [Header("Enemy")]
+    [SerializeField] bool usedByEnemy;
+    [SerializeField] float firingRateVariance = 0.1f;
+    [SerializeField] float minimumFiringRate = 0.1f;
+
+    [HideInInspector] public bool isFiring;
+
+    AudioPlayer audioPlayer;
 
     Coroutine firingCoroutine;
+
+    void Awake()
+    {
+        audioPlayer = FindAnyObjectByType<AudioPlayer>();
+    }
+
+    void Start()
+    {
+        if (usedByEnemy)
+        {
+            isFiring = true;
+        }
+    }
 
     void Update()
     {
@@ -46,7 +67,14 @@ public class Shooter : MonoBehaviour
 
             Destroy(instance, torpedoLifetime);
 
-            yield return new WaitForSeconds(firingRate);
+            float timeToNextTorpedo = Random.Range(
+                firingRate - firingRateVariance, minimumFiringRate + firingRateVariance);
+
+            timeToNextTorpedo = Mathf.Clamp(timeToNextTorpedo, minimumFiringRate, float.MaxValue);
+
+            audioPlayer.PlayShootingClip();
+
+            yield return new WaitForSeconds(timeToNextTorpedo);
         }
     }
 }

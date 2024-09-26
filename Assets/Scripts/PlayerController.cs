@@ -57,14 +57,14 @@ public class PlayerController : MonoBehaviour
     void OnMove(InputValue value)
     {
         rawInput = value.Get<Vector2>();
-        Debug.Log(rawInput);
+        //Debug.Log(rawInput);
     }
 
     void OnFire(InputValue value) // name of this method should be the same as in Player Input component
     {
         if (shooter != null)
         {
-            Debug.Log("Shooter script is assigned correctly");
+            //Debug.Log("Shooter script is assigned correctly");
             shooter.isFiring = value.isPressed;
         }
     }
