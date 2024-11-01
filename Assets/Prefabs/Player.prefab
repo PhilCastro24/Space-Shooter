@@ -164,7 +164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isPlayer: 1
-  health: 100
+  health: 10
   score: 0
 --- !u!114 &4649222789479392697
 MonoBehaviour:
