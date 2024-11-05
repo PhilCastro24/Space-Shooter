@@ -11,6 +11,7 @@ public class HealthController : MonoBehaviour
     //Creates a reference to the AudioPlayerS Script and ScoreKeeper Script
     AudioPlayer audioPlayer;
     ScoreKeeper scoreKeeper;
+    LevelManager levelManager;
 
     //Creates a new Method GetHealth wich then...
     public int GetHealth()
@@ -24,6 +25,7 @@ public class HealthController : MonoBehaviour
         //Finds audioPlayer and the scoreKeeper so that it can be used inside this Script
         audioPlayer = FindAnyObjectByType<AudioPlayer>();
         scoreKeeper = FindAnyObjectByType<ScoreKeeper>();
+        levelManager = FindAnyObjectByType<LevelManager>();
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -61,8 +63,12 @@ public class HealthController : MonoBehaviour
         //if it is indeed not the Player itself then...
         if (!isPlayer)
         {
-            //The scoreKeeper Script calls up the ModifyScore method
+            //The scoreKeeper Script calls up the ModifyScore to modify the score wich is inside this method
             scoreKeeper.ModifyScore(score);
+        }
+        else
+        {
+            levelManager.LoadGameOver();
         }
         //otherwise if it is indeed the Player, the gameObject gets Destroyd
         Destroy(gameObject);
